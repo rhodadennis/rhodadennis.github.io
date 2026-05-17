@@ -24,13 +24,13 @@ repository               : "rhodadennis.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Rhoda Dennis"
+  pronouns         : "she/her"  # example: 
+  bio              : "PhD Candidate"
+  location         : "Waterloo, ON"
+  employer         : "University of Waterloo"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rdadzied@uwaterloo.ca" 
 
   # Academic websites
   academia         : # URL
