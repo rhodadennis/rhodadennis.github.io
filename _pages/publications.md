@@ -29,3 +29,15 @@ Mortality Modeling | P2P Risk Sharing
 
 <h2>Academic Presentations</h2>
 
+* 60th Actuarial Research Conference - York, Canada (July, 2025)
+  * Title: <i>"Evaluating the resilience of pension glidepaths in a climate-sensitive economy"</i> 
+* The 2nd Actuarial, Finance, Risk and Insurance Congress - Maasai Mara, Kenya (June, 2025)
+  * Title: <i>"Evaluating the resilience of pension glidepaths in a climate-sensitive economy"</i> 
+* 2025 Perspectives on Actuarial Risks in Talks of Young Researchers - Liverpool, U.K. (May, 2025)
+  * Title: <i>"Evaluating the resilience of pension glidepaths in a climate-sensitive economy"</i> 
+* Waterloo Student Conference in Statistics, Actuarial Science and Finance - Waterloo, Canada (October, 2024)
+  * Title: <i>"Empirical Analysis of Climate Smart Investing"</i> 
+* The 1st Actuarial, Finance, Risk and Insurance Congress - Victoria Falls, Zimbabwe (July, 2023)
+  * Title: <i>"Modeling Transition and Physical Risks in Pension Plan Investment Strategies: A Multivariate
+Normal Regime Switching Approach."</i> 
+
