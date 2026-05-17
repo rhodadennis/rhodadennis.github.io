@@ -1,12 +1,8 @@
----
-title: "Teaching"
----
-
-
 **Instructor, University of Waterloo**\
 ACTSC 231 – Introductory Financial Mathematics (Fall 2025)
   * Responsibilities include syllabus design, lecturing, creating assessments, and mentoring students.
  
+<br>
       
 **Teaching Assistant, University of Waterloo**\
 Supported undergraduate and graduate courses in actuarial science, finance, statistics, and risk management, including:
@@ -28,7 +24,7 @@ Supported undergraduate and graduate courses in actuarial science, finance, stat
   * STAT 241: Statistics (Advanced Level)
 Responsibilities included leading tutorials, proctoring, grading, and holding office hours.
 
-
+<br>
 
 **Teaching & Pedagogical Development**
   * Foundations for University Teaching in Statistics and Actuarial Science Certificate (December 2024)
