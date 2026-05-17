@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 
-**Academic & Professional Service**
+<h2>Academic & Professional Service</h2>
+
   * **Conference Session Chair**: [AFRIC 2025 (Climate Risks Session)](https://www.unsw.edu.au/business/our-schools/risk-actuarial/news-events/actuarial-finance-risk-and-insurance-congress-2) - Maasai Mara, Kenya (June, 2025)
   * **Conference Volunteer**: 5th Waterloo Student Conference in Statistics, Actuarial Science and Finance
   * **Research Mentor**: [Women in Mathematics Directed Reading Program (WiM DRP)](https://uwaterloo.ca/women-in-mathematics/past-drp-projects)
@@ -14,12 +15,14 @@ author_profile: true
           * Mentees: Milagro Chen, Shreya Jain,Suneet Kaur Mahal.
       * Mentored 3 undergraduate students (Spring 2025) on the topic "[Portfolio Selection under Climate Change: Integrating Climate Risk in Investment](https://studc.math.ca/wp-content/uploads/2025/12/NftM-W2025.pdf)".
           * Mentees: Alex Palmer, Tanay Kaashyap, [Kris Zhang](https://www.kriszhang.ca).
-      * Previously mentored a total of 9 undergraduate students on the topic "Portfolio Selection under climate change: Integrating climate risk in investment" over the Spring 2025 (3 males), Winter 2025 (4 females) & Spring 2024 terms (2 females). 
+      * Mentored a total of 12 undergraduate students on the topic "Portfolio Selection under climate change: Integrating climate risk in investment" over the Fall 2025(2 females, 1 male), Spring 2025 (3 males), Winter 2025 (4 females) & Spring 2024 terms (2 females). 
  
  
 <br>
 
-**Awards & Scholarships**\
+
+<h2>Awards & Scholarships</h2>
+
 **External Awards**
   1. ARC Graduate Student Presentation Award Honorable Mention, SOA (2025)
   2. Spencer Educational Foundation Ph.D. Scholarship (2025)
