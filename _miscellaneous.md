@@ -1,9 +1,12 @@
 ---
-layout: archive
-title: "Miscellaneous"
 permalink: /miscellaneous/
+title: "Miscellaneous"
 author_profile: true
+redirect_from: 
+  - /teaching/
+  - /teaching.html
 ---
+
 
 **Academic & Professional Service**
   * **Conference Session Chair**: [AFRIC 2025 (Climate Risks Session)](https://www.unsw.edu.au/business/our-schools/risk-actuarial/news-events/actuarial-finance-risk-and-insurance-congress-2) - Maasai Mara, Kenya (June, 2025)
